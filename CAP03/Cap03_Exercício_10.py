@@ -6,7 +6,7 @@
 
 import pandas as pd
 
-file_name = "binary.csv"
+file_name = "../Arquivos/binary.csv"
 
 
 def retornaArq(file_name):
